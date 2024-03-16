@@ -9,7 +9,7 @@ To sample, we pass Gaussian noise into the Gibbs sampling to shape the noise acc
 learned weights and biases that define the model distribution. Ideally at the end, we end up
 with a sample that looks like one from the data distribution if model dist ~ data dist
 
-Results after training found [here](https://github.com/elliothha/restricted-boltzmann-machines/tree/main?tab=readme-ov-file#after-30-training-epochs).
+Results after training found [here](https://github.com/elliothha/restricted-boltzmann-machines/tree/main?tab=readme-ov-file#after-30-training-epochs). Full generative modeling zoo found [here](https://github.com/elliothha/generative-modeling-zoo).
 
 by **Elliot H Ha**. Duke University
 

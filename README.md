@@ -1,4 +1,4 @@
-# Restricted Boltzmann Machines for Generative Modeling
+# Restricted Boltzmann Machines (RBMs) for Generative Modeling
 ![GitHub last commit](https://img.shields.io/github/last-commit/elliothha/restricted-boltzmann-machines) ![GitHub repo size](https://img.shields.io/github/repo-size/elliothha/restricted-boltzmann-machines)
 
 *[3/16/24 Update] Changed from Gaussian-Bernoulli to Bernoulli-Bernoulli for MNIST*
